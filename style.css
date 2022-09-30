@@ -1,0 +1,30 @@
+table, th{
+    border: 3px solid black;
+   text-align: center;
+   border-collapse: collapse;
+   
+   
+}
+
+.couleur{
+background-color: blue;
+
+
+}
+
+.img{
+
+background-image: url("/Users/charlesagostinelli/Desktop/tableau/image/dauphin.jpg");
+height: 20px;
+background-size: cover;
+}
+
+.img2 {
+    background-image: url("/Users/charlesagostinelli/Desktop/tableau/image/dauphins.jpg");
+    height: 50px;
+    background-size: cover;
+
+}
+
+Ò
+
